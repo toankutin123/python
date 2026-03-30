@@ -11,7 +11,7 @@ def save_file(path, so_bai, code):
 
 # ===== CONFIG =====
 # 👉 chỉnh đường dẫn mặc định tại đây
-DEFAULT_PATH = "../chuong3/luyentap1"
+DEFAULT_PATH = "chuong3/luyentap1"
 
 # tạo thư mục nếu chưa có
 os.makedirs(DEFAULT_PATH, exist_ok=True)
