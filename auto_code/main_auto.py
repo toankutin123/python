@@ -9,8 +9,6 @@ def save_file(path, so_bai, code):
         f.write(code)
     print(f"Đã tạo {filename}")
 
-# ===== CONFIG =====
-# 👉 chỉnh đường dẫn mặc định tại đây
 DEFAULT_PATH = input("Nhập thư mục (vd: chuong2/luyentap3.3): ")
 
 # tạo thư mục nếu chưa có
