@@ -1,0 +1,37 @@
+[
+  {
+    "cccd": "001234567890",
+    "name": "Nguyễn Văn A",
+    "dob": "15/06/1990",
+    "gender": "Nam",
+    "address": "123 Đường Lê Lợi, Quận Hoàn Kiếm, Hà Nội"
+  },
+  {
+    "cccd": "001234567891",
+    "name": "Trần Thị B",
+    "dob": "20/03/1992",
+    "gender": "Nữ",
+    "address": "456 Đường Nguyễn Huệ, Quận 1, TP.HCM"
+  },
+  {
+    "cccd": "001234567892",
+    "name": "Phạm Minh C",
+    "dob": "10/12/1988",
+    "gender": "Nam",
+    "address": "789 Đường Ba Đình, Quận Ba Đình, Hà Nội"
+  },
+  {
+    "cccd": "001234567893",
+    "name": "Võ Thị Hương D",
+    "dob": "25/08/1995",
+    "gender": "Nữ",
+    "address": "321 Đường Đinh Bộ Lĩnh, Quận Bình Thạnh, TP.HCM"
+  },
+  {
+    "cccd": "001234567894",
+    "name": "Đặng Văn E",
+    "dob": "05/01/1987",
+    "gender": "Nam",
+    "address": "654 Đường Hoàng Diệu, Quản Hải Châu, Đà Nẵng"
+  }
+]
